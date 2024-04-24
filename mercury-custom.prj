@@ -1,0 +1,116 @@
+{
+  "Options":{
+    "Target":"target",
+    "Compiler Options":{
+      "Link Flags":"",
+      "Fortran Flags":"",
+      "C Flags":""
+    },
+    "Revision":2,
+    "Fortran Options":{
+      "Use C Preprocessor":"false",
+      "Enable OpenMP":"false",
+      "Enable Coarrays":"false",
+      "Default Double for Real":"false",
+      "Initialize Variables to Zero":"false",
+      "Floating Point Exception Trap":0,
+      "Disable Floating Point Exception Warnings":0,
+      "Cray Pointers":"false",
+      "Runtime Diagnostics":"false"
+    },
+    "File Options":{
+      "Build Directory":"build",
+      "Include Directories":["Default Include Directory"],
+      "Module Directory":"modules",
+      "Library Directories":["Default Library Directory"]
+    },
+    "Code Generation Options":{
+      "Optimization Mode":0,
+      "CPU Specific":"false",
+      "Aggressive Loops":"false",
+      "Link Time Optimization":"false",
+      "Debugging":"true",
+      "Profiling":"false",
+      "Processor":"generic"
+    },
+    "Linker Options":{
+      "Link MPI Library":"false",
+      "Link LAPACK":0,
+      "Static Linking Mode":7
+    },
+    "Type":0,
+    "Launch Options":{
+      "Keep Console":"true",
+      "External Console":"false",
+      "Build Before Launch":"true",
+      "Launch Using MPI":"false",
+      "Working Directory":"",
+      "Command Line Arguments":""
+    },
+    "Build Options":{
+      "Auto Makefile":"true",
+      "Makefile":"Makefile.RFNX",
+      "Auto Management":"true"
+    },
+    "Architecture":0,
+    "Build Dependencies":1,
+    "Windows GUI":0
+  },
+  "Name":"Untitled (target)",
+  "Root":{
+    "Folders":[],
+    "Name":"+Untitled (target)",
+    "Files":[{
+        "enabled":"1",
+        "filename":"big.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"close.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"close6.for"
+      },{
+        "enabled":"1",
+        "filename":"element.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"element6.for"
+      },{
+        "enabled":"1",
+        "filename":"files.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"JOHN_E_CHAMBERS.md"
+      },{
+        "enabled":"1",
+        "filename":"LICENSE"
+      },{
+        "enabled":"1",
+        "filename":"Makefile"
+      },{
+        "enabled":"1",
+        "filename":"mercury.inc"
+      },{
+        "enabled":"1",
+        "filename":"mercury6.man"
+      },{
+        "enabled":"1",
+        "filename":"mercury6_2.for"
+      },{
+        "enabled":"1",
+        "filename":"message.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"param.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"README.md"
+      },{
+        "enabled":"1",
+        "filename":"small.in.sample"
+      },{
+        "enabled":"1",
+        "filename":"swift.inc"
+      }]
+  }
+}
